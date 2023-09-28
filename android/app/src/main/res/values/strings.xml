@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Abdeen</string>
+    <string name="facebook_app_id">289914008898201</string>
+     <string moduleConfig="true" name="CodePushDeploymentKey">mVhSNGtBJmiVdOYa3Nsh1xFOfluhmaa6At5wA</string>
+</resources>

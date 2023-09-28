@@ -1,0 +1,310 @@
+{
+  "project_info": {
+    "project_number": "235633887075",
+    "firebase_url": "https://bobapps.firebaseio.com",
+    "project_id": "bobapps",
+    "storage_bucket": "bobapps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235633887075:android:3dfa81d5e6332b1262f556",
+        "android_client_info": {
+          "package_name": "com.bob.abdeen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSWctCrj3xWQ6-DYcJI5zV2JUL32ifG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235633887075-7pki0hc165oemsv4dancob0842t92uoh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bob.inbox",
+                "app_store_id": "1544855159"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235633887075:android:724d85904b5d99c062f556",
+        "android_client_info": {
+          "package_name": "com.bob.inbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSWctCrj3xWQ6-DYcJI5zV2JUL32ifG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235633887075-7pki0hc165oemsv4dancob0842t92uoh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bob.inbox",
+                "app_store_id": "1544855159"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235633887075:android:666ce8ff84060f3c62f556",
+        "android_client_info": {
+          "package_name": "com.bob.saj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSWctCrj3xWQ6-DYcJI5zV2JUL32ifG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235633887075-7pki0hc165oemsv4dancob0842t92uoh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bob.inbox",
+                "app_store_id": "1544855159"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235633887075:android:5a9ed63580a5ce3862f556",
+        "android_client_info": {
+          "package_name": "com.bob.sameh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSWctCrj3xWQ6-DYcJI5zV2JUL32ifG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235633887075-7pki0hc165oemsv4dancob0842t92uoh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bob.inbox",
+                "app_store_id": "1544855159"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235633887075:android:3be00385dbce6a6162f556",
+        "android_client_info": {
+          "package_name": "com.bob.volume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235633887075-5pjmroai28mrlsvo3ifsjcqj4cokvj97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bob.volume",
+            "certificate_hash": "b7b23ade70ded37d3a8a482e61eb31f1c0146e45"
+          }
+        },
+        {
+          "client_id": "235633887075-r5n90f8ivr82fhjusu8sjkq1edp78dlr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bob.volume",
+            "certificate_hash": "904cd3ffb2d1cdc4c61385cf7701d688d8a132bb"
+          }
+        },
+        {
+          "client_id": "235633887075-s27mauh21336qn4kbujts49vnb6jpdcv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bob.volume",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSWctCrj3xWQ6-DYcJI5zV2JUL32ifG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235633887075-7pki0hc165oemsv4dancob0842t92uoh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bob.inbox",
+                "app_store_id": "1544855159"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235633887075:android:d732dc2f9bb22dca62f556",
+        "android_client_info": {
+          "package_name": "com.bob.zawaki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235633887075-8q1vmt97n55gpoi16lfde57rdq105etf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bob.zawaki",
+            "certificate_hash": "f10caf80b4dc52f7d03a1a5e1d9c44059e7972d3"
+          }
+        },
+        {
+          "client_id": "235633887075-dp7r4r25do03sgnik2guc8je21bunkpq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bob.zawaki",
+            "certificate_hash": "c639a3fd6ad6bf7c1e0865523383e7058afc2b61"
+          }
+        },
+        {
+          "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSWctCrj3xWQ6-DYcJI5zV2JUL32ifG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235633887075-7pki0hc165oemsv4dancob0842t92uoh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bob.inbox",
+                "app_store_id": "1544855159"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235633887075:android:d29c4f40c354be1462f556",
+        "android_client_info": {
+          "package_name": "com.bobaps.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoSWctCrj3xWQ6-DYcJI5zV2JUL32ifG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235633887075-voo9c65vu8k835et399jsb6ko75rlioa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "235633887075-7pki0hc165oemsv4dancob0842t92uoh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bob.inbox",
+                "app_store_id": "1544855159"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

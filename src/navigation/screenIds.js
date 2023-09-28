@@ -1,0 +1,42 @@
+const workspace = 'kpmg';
+const screenIds = {
+  WELCOME_SCREEN: `${workspace}.WelcomeScreen`,
+  HOME_SCREEN: `${workspace}.HomeScreen`,
+  OFFERS_SCREEN: `${workspace}.OffersScreen`,
+  MENU_SCREEN: `${workspace}.MenuScreen`,
+  ITEM_SCREEN: `${workspace}.ItemScreen`,
+  SUCCESS_ADD_ITEM_SCREEN: `${workspace}.SuccessAddItemScreen`,
+  CART_SCREEN: `${workspace}.CartScreen`,
+  CUSTOM_FOOTER: `${workspace}.MainFooter`,
+  SEARCH_SCREEN: `${workspace}.SearchScreen`,
+  ACCOUNT_SCREEN: `${workspace}.AccountScreen`,
+  LOGIN_SCREEN: `${workspace}.LoginScreen`,
+  CHECKOUT_SCREEN: `${workspace}.CheckoutScreen`,
+  MY_ADDRESSES_SCREEEN: `${workspace}.MyAddressesScreen`,
+  ADD_ADDRESS_SCREEN: `${workspace}.AddAdressScreen`,
+  SELECT_LOCATION_ON_MAP: `${workspace}.SelectLocationOnMapScreen`,
+  MY_ORDER_SCREEN: `${workspace}.MyOrdersScreen`,
+  ORDER_DETAILS_SCREEN: `${workspace}.OrderDetailsScreen`,
+  FILTER_SCREEN: `${workspace}.FilterScreen`,
+  NOTOFICATION_SCREEN: `${workspace}.NotoficationScreen`,
+  MY_FAV_SCREEN: `${workspace}.MyFavScreen`,
+  CATEGORY_SCREEN: `${workspace}.CategoryScreen`,
+  LOGOUT_SCREEN: `${workspace}.LogoutScreen`,
+  EDIT_PROFILE_SCREEN: `${workspace}.EditProfileScreen`,
+  WIDGET_SCREEN: `${workspace}.WidgetScreen`,
+  IMAGE_VIEW_SCREEN: `${workspace}.ImageViewScreen`,
+  ALL_CATEGORIES_SCREEN: `${workspace}.AllCategoriesScreen`,
+  RATE_AND_REVIEW_SCREEN: `${workspace}.RateAndReviewScreen`,
+  ONLINE_PAYMENT_SCREEN: `${workspace}.OnlinePaymentScreen`,
+  MENU_CATEGORIES_SCREEN: `${workspace}.MenuCategoriesScreen`,
+  MENU_SUB_CATEGORIES_SCREEN: `${workspace}.MenuSubCategoriesScreen`,
+  LOYALTY_COINS_SCREEN: `${workspace}.LoyaltyCoinsScreen`,
+  SHARE_ORDER_SCREEN: `${workspace}.ShareOrderScreen`,
+  SHARE_DIALOG: `${workspace}.ShareDialog`,
+  ABOUT_US_SCREEN: `${workspace}.AboutUsScreen`,
+  TOAST_MODAL: `${workspace}.ToastModal`,
+
+};
+
+
+export default screenIds;
