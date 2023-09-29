@@ -19,9 +19,8 @@
   "dependencies": {
     "@ptomasroos/react-native-multi-slider": "https://github.com/jamal-Alalami/react-native-multi-slider.git",
     "@react-native-community/async-storage": "^1.10.0",
-    "@react-native-community/geolocation": "^2.0.2",
+    "@react-native-community/cli": "^11.3.8",
     "@react-native-community/google-signin": "^5.0.0",
-    "@react-native-community/image-editor": "^2.3.0",
     "axios": "^1.5.0",
     "immutable": "^4.0.0-rc.12",
     "libphonenumber-js": "^1.7.52",
@@ -37,7 +36,6 @@
     "react-native-datepicker": "^1.7.2",
     "react-native-fast-image": "^8.1.5",
     "react-native-fbsdk": "^2.0.0",
-    "react-native-firebase": "5.6.0",
     "react-native-gesture-handler": "^1.6.0",
     "react-native-image-crop-picker": "^0.35.1",
     "react-native-image-pan-zoom": "^2.1.12",

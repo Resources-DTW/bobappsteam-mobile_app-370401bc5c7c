@@ -1,0 +1,4 @@
+removed versions (default)
+- "@react-native-community/geolocation": "^2.0.2",
+- "@react-native-community/image-editor": "^2.3.0",
+- "react-native-firebase": "5.6.0",
