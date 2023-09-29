@@ -1870,10 +1870,20 @@
   resolved "https://registry.npmjs.org/@react-native-community/eslint-plugin/-/eslint-plugin-1.1.0.tgz"
   integrity sha512-W/J0fNYVO01tioHjvYWQ9m6RgndVtbElzYozBq1ZPrHO/iCzlqoySHl4gO/fpCl9QEFjvJfjPgtPMTMlsoq5DQ==
 
+"@react-native-community/geolocation@^2.0.2":
+  version "2.0.2"
+  resolved "https://registry.npmjs.org/@react-native-community/geolocation/-/geolocation-2.0.2.tgz"
+  integrity sha512-tTNXRCgnhJBu79mulQwzabXRpDqfh/uaDqfHVpvF0nX4NTpolpy6mvTRiFg7eWFPGRArsnZz1EYp6rHfJWGgEA==
+
 "@react-native-community/google-signin@^5.0.0":
   version "5.0.0"
   resolved "https://registry.npmjs.org/@react-native-community/google-signin/-/google-signin-5.0.0.tgz"
   integrity sha512-MvFHImmtlmE1kJZgZ9XaULm/OBuQ/AQWOCPr3NzYTUv2cCqyGwfFrealo5PS/fuL/InCGcfqK1k/1dZ+67Hjmg==
+
+"@react-native-community/image-editor@^2.3.0":
+  version "2.3.0"
+  resolved "https://registry.npmjs.org/@react-native-community/image-editor/-/image-editor-2.3.0.tgz"
+  integrity sha512-+UJY8WkTkfSkjoU5blQnEI7tTg11jJLoM+YojjiQpEopUaRlYQU4SZ9Zd6F6wWfvc9bjvIeMY6FlKuESK/q4fQ==
 
 "@react-native/assets-registry@^0.72.0":
   version "0.72.0"
@@ -4529,7 +4539,7 @@ is-number@^7.0.0:
 is-obj@^1.0.0:
   version "1.0.1"
   resolved "https://registry.npmjs.org/is-obj/-/is-obj-1.0.1.tgz"
-  integrity sha1-PkcprB9f3gJc19g6iW2rn09n2w8= sha512-l4RyHgRqGN4Y3+9JHVrNqO+tN0rV5My76uW5/nuO4K1b6vw5G8d/cmFjP9tRfEsdhZNt0IFdZuK/c2Vr4Nb+Qg==
+  integrity sha512-l4RyHgRqGN4Y3+9JHVrNqO+tN0rV5My76uW5/nuO4K1b6vw5G8d/cmFjP9tRfEsdhZNt0IFdZuK/c2Vr4Nb+Qg==
 
 is-plain-object@^2.0.3, is-plain-object@^2.0.4:
   version "2.0.4"
@@ -6411,7 +6421,7 @@ open@^6.2.0:
   dependencies:
     is-wsl "^1.1.0"
 
-opencollective-postinstall@^2.0.2:
+opencollective-postinstall@^2.0.0, opencollective-postinstall@^2.0.2:
   version "2.0.2"
   resolved "https://registry.npmjs.org/opencollective-postinstall/-/opencollective-postinstall-2.0.2.tgz"
   integrity sha512-pVOEP16TrAO2/fjej1IdOyupJY8KDUM1CvsaScRbw6oddvpQoOfGk4ywha0HKKVAD6RkW4x6Q+tNBwhf3Bgpuw==
@@ -6793,6 +6803,14 @@ react-native-fbsdk@^2.0.0:
   resolved "https://registry.npmjs.org/react-native-fbsdk/-/react-native-fbsdk-2.0.0.tgz"
   integrity sha512-CyPKoBVt9Y+KznALcnN4lkh6dUNqZjyFS6GbkXXTFf72wR9Dl8bXF2dDj56w/o5/TFoCnNCmQlZgh7P/NiElZQ==
 
+react-native-firebase@^5.6.0:
+  version "5.6.0"
+  resolved "https://registry.npmjs.org/react-native-firebase/-/react-native-firebase-5.6.0.tgz"
+  integrity sha512-I+o3zNLdIz4pxWTCSZH70M1BcPl+SdqKQfurOT0sWcaMSL2ecDqVy0PCTmN7ORt7/Z879Er6PLgA/psjArQlmw==
+  dependencies:
+    opencollective-postinstall "^2.0.0"
+    prop-types "^15.7.2"
+
 react-native-gesture-handler@^1.6.0:
   version "1.6.1"
   resolved "https://registry.npmjs.org/react-native-gesture-handler/-/react-native-gesture-handler-1.6.1.tgz"
@@ -6952,7 +6970,7 @@ react-native-webview@^13.6.0:
     escape-string-regexp "2.0.0"
     invariant "2.2.4"
 
-react-native@*, react-native@^0.57.3, react-native@^0.72.4, "react-native@>= 0.51", react-native@>=0.38.0, react-native@>=0.40.0, react-native@>=0.42.0, react-native@>=0.43.0, react-native@>=0.44.0, react-native@>=0.47.0, react-native@>=0.48.4, react-native@>=0.55, react-native@>=0.56, react-native@>=0.56.0, react-native@>=0.59, react-native@>=0.59.0, react-native@>=0.60.0:
+react-native@*, react-native@^0.57.3, react-native@^0.72.4, "react-native@>= 0.51", "react-native@>= 0.57.0 < 1", react-native@>=0.38.0, react-native@>=0.40.0, react-native@>=0.42.0, react-native@>=0.43.0, react-native@>=0.44.0, react-native@>=0.47.0, react-native@>=0.48.4, react-native@>=0.55, react-native@>=0.56, react-native@>=0.56.0, "react-native@>=0.57 <0.62", react-native@>=0.59, react-native@>=0.59.0, react-native@>=0.60.0:
   version "0.72.4"
   resolved "https://registry.npmjs.org/react-native/-/react-native-0.72.4.tgz"
   integrity sha512-+vrObi0wZR+NeqL09KihAAdVlQ9IdplwznJWtYrjnQ4UbCW6rkzZJebRsugwUneSOKNFaHFEo1uKU89HsgtYBg==
@@ -7041,7 +7059,7 @@ react-tween-state@^0.1.5:
     raf "^3.1.0"
     tween-functions "^1.0.1"
 
-react@*, react@^16.0.0, "react@^16.0.0 || ^17.0.0 || ^18.0.0", react@^16.12.0, react@^16.8, react@^16.8.0, "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^16.8.0 || 16.9.0-alpha.0", react@^16.8.3, "react@^17 || ^18", "react@>= 16.0 || < 17.0", react@>=15.2.0, react@>=16.0.0-alpha.3, react@>=16.4.1, react@>=16.8.3, react@18.2.0:
+react@*, react@^16.0, react@^16.0.0, "react@^16.0.0 || ^17.0.0 || ^18.0.0", react@^16.12.0, react@^16.8, react@^16.8.0, "react@^16.8.0 || ^17.0.0 || ^18.0.0", "react@^16.8.0 || 16.9.0-alpha.0", react@^16.8.3, "react@^17 || ^18", "react@>= 16.0 || < 17.0", "react@>= 16.5.0", react@>=15.2.0, react@>=16.0.0-alpha.3, react@>=16.4.1, react@>=16.8.3, react@18.2.0:
   version "16.13.1"
   resolved "https://registry.npmjs.org/react/-/react-16.13.1.tgz"
   integrity sha512-YMZQQq32xHLX0bz5Mnibv1/LHb3Sqzngu7xstSM+vrkE5Kzr9xE0yMByK5kMoTK30YVJE61WfbxIFFvfeDKT1w==
